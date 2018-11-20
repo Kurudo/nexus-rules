@@ -1,0 +1,93 @@
+{
+  
+  "embeds": [
+    {
+      "title": "Welcome to Nexus!",
+      "description": "Please read these rules!",
+      "url": "https://twitter.com/KurudoLeaks",
+      "color": 8896974,
+     
+      
+      "author": {
+        "name": "Nexus",
+        "url": "https://twitter.com/KurudoLeaks",
+        "icon_url": "https://i.imgur.com/4gKcUhB.png"
+      },
+      "fields": [
+       {
+          "name": "🔴 Rule 1",
+          "value": "Don't be toxic - resolve conflicts in DM's."
+        },
+       {
+          "name": "🔴 Rule 2",
+          "value": "Don't try to be an edgelord - obnoxious attention seekers aren't welcome."
+        },
+       {
+          "name": "🔴 Rule 3",
+          "value": "Don't mic spam - No unwanted ear rape, music spam etc."
+        },
+       {
+          "name": "🔴 Rule 4",
+          "value": "Don't post porn/gore - This is against Discord ToS & will result in a ban."
+        },
+       {
+          "name": "🔴 Rule 5",
+          "value": "Don't post walls of text/emojis - It's not that hard."
+        },
+       {
+          "name": "🔴 Rule 6",
+          "value": "No referrals/spam/link shorteners etc... - Just don't do it."
+        },
+       {
+          "name": "🔴 Rule 7",
+          "value": "No doxxing and witch hunts - Illegal and against the Discord Terms of Service."
+        },
+       {
+          "name": "🔴 Rule 8",
+          "value": "No encouraging to break any rules on this or other servers - Will result in a single warning followed by ban."
+        },
+       {
+          "name": "🔴 Rule 9",
+          "value": "No Discord Invite Links in any Channel (DM's is allowed but only if they ask you personally)."
+        },
+       {
+          "name": "🔴 Rule 10",
+          "value": "English language in text channels (except #non-english-chat )."
+        },
+       {
+          "name": "🔴 Rule 11",
+          "value": "Don't be Racist, Sexist or Homophobic - Calling people racial slurs \\\"as a joke\\\" isn't funny."
+        },
+       {
+          "name": "🔴 Rule 12",
+          "value": "Don't bring your personal drama or drama related to members of this server - Seriously, we don't wanna see/hear it."
+        },
+       {
+          "name": "🔴 Rule 13",
+          "value": "Don't be rude to moderators or other members - if you have an issue or disagree with something, resolve it in DM or talk to a Mod."
+        },
+       {
+          "name": "🔴 Rule 14",
+          "value": "Don't bring up ban discussion in the chat and don't message mods asking why someone was kicked/banned Only a person who got affected is allowed to do so."
+        },
+       {
+          "name": "🔴 Rule 15",
+          "value": "Plaintext only in usernames/nicknames- Don't have crazy characters in your names, it gives us, other users and the bot a hard time."
+        },
+       {
+          "name": "🔴 Rule 16",
+          "value": "Don't try to avoid any of these rules/exploit loopholes."
+        }
+       
+        
+
+        
+      ]
+    },
+    {
+      "color": 8896974,
+      "title": "Thank you for reading the rules.",
+      "description": "Rules written by <@288020332336513024>, rules revised and posted by <@180674830264172544>"
+    }
+  ]
+}
